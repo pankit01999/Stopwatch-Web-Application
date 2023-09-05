@@ -1,5 +1,5 @@
 # Stopwatch-Application By Ankit Pandey
-#Steps:
+Steps:
 
 1. Initiate the process by crafting a central container that envelops all the essential elements.
 
